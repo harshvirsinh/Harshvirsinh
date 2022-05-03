@@ -1,5 +1,5 @@
 # Harshvirsinh
-IOS DEveloper At Striker Apps Ahmedabad ||
+IOS Developer At Striker Apps Ahmedabad ||
 
 
 The Projects that I have worked on have been written in Swift ||
